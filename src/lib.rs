@@ -49,6 +49,3 @@ impl KarplusString {
         }
     }
 }
-
-pub fn stuff() {
-}
