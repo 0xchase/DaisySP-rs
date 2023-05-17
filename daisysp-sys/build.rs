@@ -49,9 +49,11 @@ fn main() {
         ])
         .files(&[
                 "DaisySP/Source/Filters/tone.cpp",
+                "DaisySP/Source/Utility/dcblock.cpp",
+                "DaisySP/Source/Dynamics/crossfade.cpp",
+                "DaisySP/Source/PhysicalModeling/KarplusString.cpp",
 
                 "DaisySP/Source/PhysicalModeling/drip.cpp",
-                "DaisySP/Source/PhysicalModeling/KarplusString.cpp",
                 "DaisySP/Source/PhysicalModeling/modalvoice.cpp",
                 "DaisySP/Source/PhysicalModeling/pluck.cpp",
                 "DaisySP/Source/PhysicalModeling/resonator.cpp",
