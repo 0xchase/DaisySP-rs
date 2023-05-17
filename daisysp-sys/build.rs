@@ -48,6 +48,8 @@ fn main() {
                 "DaisySP/Source/Utility",
         ])
         .files(&[
+                "DaisySP/Source/Filters/tone.cpp",
+
                 "DaisySP/Source/PhysicalModeling/drip.cpp",
                 "DaisySP/Source/PhysicalModeling/KarplusString.cpp",
                 "DaisySP/Source/PhysicalModeling/modalvoice.cpp",
